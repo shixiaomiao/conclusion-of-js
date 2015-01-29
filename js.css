@@ -1,0 +1,14 @@
+
+*{ padding:0px; margin:0px; }
+ul , li { list-style-type : none;}
+#container {width:960px;border:1px solid black;overflow:hidden;margin:10px auto;}
+.title {width:960px;height:48px;background:#333333;display:block;overflow:hidden;}
+.title li {width:100px;height:48px;float :left;color:white;text-align:center;padding:10px;font-size:14px;display:block;}
+.title .active{background:#cccccc;color:#333333;cursor:pointer;}
+
+#className {display:block;}
+.class1 {width:960px ; display:none;}
+
+.class1 li {width: 960px; height:30px; background:#111111;padding:19px; color: #CCCCCC;border:1px solid #333333;font-size:18px;}
+
+.class2 {width:920px;background:#CCCCCC; display:none;padding:20px;}
